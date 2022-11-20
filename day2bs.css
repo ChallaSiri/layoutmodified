@@ -1,0 +1,37 @@
+.bgimg{
+    background-image:url(https://images.pexels.com/photos/414102/pexels-photo-414102.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    
+    height:120vh;
+    background-size: cover;
+    
+}
+.mobilehead{
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 25px;
+
+}.layoutcard{
+    background-color: white;
+    border-radius: 8px;
+    padding:18px;
+    margin:15px;
+}
+.brandscont{
+    color:#041836;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+    font-weight:bold;
+
+}
+.brandspara{
+    color:#6c6b70;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+
+}
+.branding{
+    width:100px;
+    height:100px;
+}
